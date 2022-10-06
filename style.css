@@ -47,7 +47,24 @@
   transform: scale(1.5);
   width: 14vw;
   opacity: 1;
-
+  z-index: 10;
 
 }
 
+@media screen and (max-width: 800px) {
+  .logo {
+    height: 100px;
+    width: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .container img {
+    height: 20vh;
+    width: 24vw;
+  }
+
+  .container img:hover {
+    width: 22vw;
+  }
+}
