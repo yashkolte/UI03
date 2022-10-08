@@ -6,7 +6,7 @@ and it can be improved for real project.
 
 Responsive design. (Mobile, Desktop)
 
-<img src=-"./netflix.gif"/>
+<img src="./netflix.gif"/>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/yashkolte)
